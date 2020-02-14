@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\rewoodpc\desktop\mynewgame_sfml\projecttwo\projecttwo\src\anim.h(75): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+c:\users\rewoodpc\desktop\mynewgame_sfml\projecttwo\projecttwo\source.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\rewoodpc\desktop\mynewgame_sfml\projecttwo\projecttwo\source.cpp(84): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\rewoodpc\desktop\mynewgame_sfml\projecttwo\projecttwo\source.cpp(148): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\rewoodpc\desktop\mynewgame_sfml\projecttwo\projecttwo\source.cpp(241): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\rewoodpc\desktop\mynewgame_sfml\projecttwo\projecttwo\source.cpp(250): warning C4018: <: несоответствие типов со знаком и без знака
+  ProjectTwo.vcxproj -> C:\Users\ReWoodPC\Desktop\MyNewGame_SFML\ProjectTwo\Debug\ProjectTwo.exe
